@@ -9,11 +9,11 @@ This project is a text-based adventure game developed in Python as part of IT-14
 - Dictionary based room mapping
 - Win/loss condition based on items collected
 
-  **Technical Structure**
+**Technical Structure**
 
-  The program uses:
-  - A dictionary to represent room adjacency relationships
-  - A list that tracks player inventory
-  - A procedural while-loop as the game engine
-  - Conditional logic to determine win/loss state
+The program uses:
+ - A dictionary to represent room adjacency relationships
+ - A list that tracks player inventory
+ - A procedural while-loop as the game engine
+ - Conditional logic to determine win/loss state
  
